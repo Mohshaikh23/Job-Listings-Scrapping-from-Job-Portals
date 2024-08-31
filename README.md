@@ -53,12 +53,11 @@ LinkedIn-Job-Scraper/
 ### Installation
 
 1. **Clone the Repository:**
+
    ```bash
-   git clone https://github.com/your-username/LinkedIn-Job-Scraper.git
+   git clone https://github.com/Mohshaikh23/Job-Listings-Scrapping-from-Job-Portals.git
    cd LinkedIn-Job-Scraper
    ```
-
-````
 
 2. **Install Dependencies:**
    Make sure you have `pip` installed. Run the following command to install the required Python packages:
@@ -102,8 +101,4 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ```
 
----
-
-Replace `https://github.com/your-username/LinkedIn-Job-Scraper.git` with your actual GitHub repository link. You can also modify the descriptions, project structure, and setup instructions according to your project's specific details.
 ```
-````
